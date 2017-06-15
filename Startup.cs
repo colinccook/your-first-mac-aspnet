@@ -29,7 +29,6 @@ namespace mvc
         {
             // Add framework services.
             services.AddMvc();
-
             // added a random comment to see how github interaction works
         }
 
